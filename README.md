@@ -1,4 +1,4 @@
-To run this application, clone this repo:
+To run this flask application, clone this repo:
 > create a virtual environment\
 > pip install - r requirements.txt\
 > python run.py
