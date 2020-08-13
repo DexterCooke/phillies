@@ -1,7 +1,7 @@
 To run this application, clone this repo:
 > create a virtual environment\
 > pip install - r requirements.txt\
-> python run.py\
+> python run.py
 
 Go to http://127.0.0.1:5000/offer with a refresh of the page the qualifying offer will be updated 
 
